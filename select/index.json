@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "チャンピオン",
+  "base_artist": "Kanaria",
+  "createdAt": "2026-03-19T06:59:05.795442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "アリス",
+      "has_synced": true,
+      "path": "select/01_チャンピオン_アリス.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チャンピオン (feat. 初音ミク)",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/02_チャンピオン_(feat._初音ミク)_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チャンピオン - Champion",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_チャンピオン_-_Champion_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/04_チャンピオン_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "Kanaria/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/05_チャンピオン_Kanaria_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "アリス",
+      "has_synced": true,
+      "path": "select/06_チャンピオン_アリス.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "戦闘! チャンピオン(ホウエン)",
+      "artist": "増田順一",
+      "has_synced": false,
+      "path": "select/07_戦闘!_チャンピオン(ホウエン)_増田順一.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "アリス",
+      "has_synced": true,
+      "path": "select/08_チャンピオン_アリス.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "Alice",
+      "has_synced": true,
+      "path": "select/09_チャンピオン_Alice.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "チャンピオン (feat. 初音ミク)",
+      "artist": "Kanaria, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/10_チャンピオン_(feat._初音ミク)_Kanaria,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "ALICE",
+      "has_synced": false,
+      "path": "select/11_チャンピオン_ALICE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "チャンピオン (feat. 初音ミク)",
+      "artist": "Kanaria",
+      "has_synced": true,
+      "path": "select/12_チャンピオン_(feat._初音ミク)_Kanaria.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "Kanaria feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/13_チャンピオン_Kanaria_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "Shinji Tanimura",
+      "has_synced": true,
+      "path": "select/14_チャンピオン_Shinji_Tanimura.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "チャンピオン",
+      "artist": "Shinji Tanimura",
+      "has_synced": true,
+      "path": "select/15_チャンピオン_Shinji_Tanimura.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Champion - チャンピオン",
+      "artist": "Kanye West = カニエ・ウェスト",
+      "has_synced": true,
+      "path": "select/16_Champion_-_チャンピオン_Kanye_West_=_カニエ・ウェスト.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "チャンピオン (99年NHK紅白歌唱大賽參唱歌曲)",
+      "artist": "Shinji Tanimura (谷村新司)",
+      "has_synced": false,
+      "path": "select/17_チャンピオン_(99年NHK紅白歌唱大賽參唱歌曲)_Shinji_Tanimura_(谷村新司).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チャンピオン (feat. 初音ミク)",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_チャンピオン_(feat._初音ミク)_Kanaria.txt"
+    }
+  ]
+}
